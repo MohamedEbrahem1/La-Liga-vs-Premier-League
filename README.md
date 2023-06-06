@@ -10,6 +10,7 @@ This program lets you:
 You can then analyze and compare leagues to:
 1. Find which teams have the highest home win, draw and away win odds on average
 2. Uncover unexpected matches - those where the result differed from the betting odds or the half-time score
+
 The data used comes from football-data.co.uk which contains football match stats and betting odds.
 
 The program:
@@ -19,6 +20,7 @@ The program:
 4. Calculates various betting odds by team
 5. Plots graphs to visualize the results
 6. Defines functions to calculate and plot unexpected matches using two methods:
+    
     a. Based on the betting odds
     b. Based on result changes after half-time
 
