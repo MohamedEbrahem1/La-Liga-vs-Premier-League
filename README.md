@@ -20,7 +20,7 @@ The program:
 5. Plots graphs to visualize the results
 6. Defines functions to calculate and plot unexpected matches using two methods:
     a. Based on the betting odds
-    b. Based on changes after half-time
+    b. Based on result changes after half-time
 
 Future improvements include:
 1. Adding more leagues and betting websites
