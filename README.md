@@ -22,6 +22,7 @@ The program:
 6. Defines functions to calculate and plot unexpected matches using two methods:
     
     a. Based on the betting odds
+    
     b. Based on result changes after half-time
 
 Future improvements include:
