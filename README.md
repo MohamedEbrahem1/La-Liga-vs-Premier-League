@@ -1,4 +1,4 @@
-# La-Liga-vs-Premier-League
+# League Excitement Analyzer
 League Excitement Analyzer
 Customize Your Analysis and Uncover the Unexpected
 
